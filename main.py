@@ -1,7 +1,7 @@
 # from config.py import config_value_1, config_value_2, config_value_3
 
 # import config
-from config import config_value_1, config_value_2, config_value_3
+from submodule.config import config_value_1, config_value_2, config_value_3
 
 
 def read_config_value_1():
